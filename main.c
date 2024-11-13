@@ -1,6 +1,6 @@
 /*===================================CPEG222====================================
  * Program:     Project 4 (Line Follower)
- * Authors:     Mekhai Waples & Raphael Daluz
+ * Authors:     Raphael Daluz & Mekhai Waples
  * Date:        11/13/24
  * This is a guide that you can use to write your project 4 code
 ==============================================================================*/
