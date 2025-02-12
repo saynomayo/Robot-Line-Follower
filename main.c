@@ -2,7 +2,6 @@
  * Program:     Project 4 (Line Follower)
  * Authors:     Raphael Daluz & Mekhai Waples
  * Date:        11/13/24
- * This is a guide that you can use to write your project 4 code
 ==============================================================================*/
 /*-------------- Board system settings. PLEASE DO NOT MODIFY THIS PART ----------*/
 #ifndef _SUPPRESS_PLIB_WARNING          //suppress the plib warning during compiling
